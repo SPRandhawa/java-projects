@@ -25,7 +25,7 @@ Each project in this repository helps me strengthen my programming fundamentals 
 ---
 
 ### 🚀 Goal
-To master core Java concepts and apply them in building efficient, structured, and real-world ready programs.
+To master core Java concepts and apply them in building efficient, structured, and real-world ready programs. 
 
 ---
 
